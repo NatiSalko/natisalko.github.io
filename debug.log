@@ -1,0 +1,95 @@
+[0211/203401.946:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7ff671810000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.947:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0211/203401.947:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff767e0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.947:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\VERSION.dll
+[0211/203401.948:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff6ccd0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.948:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\64.0.3282.140\chrome_elf.dll
+[0211/203401.948:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7fbc0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.948:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\ADVAPI32.dll
+[0211/203401.948:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff81a10000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.948:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\PSAPI.DLL
+[0211/203401.948:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff812c0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.948:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\combase.dll
+[0211/203401.948:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff81a80000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.948:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\GDI32.dll
+[0211/203401.948:ERROR:process_reader_win.cc(242)] ReadMemory at 0xaad70a0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.948:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\MSCTF.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7fa80000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7fa20000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\shlwapi.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7ebc0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\kernel.appcore.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7ec20000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\shcore.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7eb30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\powrprof.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7eb80000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\profapi.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7efc0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\windows.storage.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7fc70000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\SHELL32.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7ebd0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\cfgmgr32.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7d400000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\DEVOBJ.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff729b0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff72d70000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\WINMM.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7e2e0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\USERENV.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff77af0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7e950000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\bcryptPrimitives.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7e660000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\CRYPTBASE.DLL
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff72250000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10240.16384_none_f41f7b285750ef43\COMCTL32.dll
+[0211/203401.949:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7fac0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.949:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\COMDLG32.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff817a0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\ole32.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff81200000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\OLEAUT32.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff81790000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\NSI.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff818f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\WS2_32.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff757d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7eba0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\MSASN1.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7edf0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\CRYPT32.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7ed90000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\system32\WINTRUST.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff68b20000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\dbghelp.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff72740000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\USP10.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7ea60000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\bcrypt.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff6b830000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7aa40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\WINNSI.DLL
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7aa50000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff76c60000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\iertutil.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff77150000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\urlmon.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff71ff0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\DWrite.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7b0d0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\dxgi.dll
+[0211/203401.950:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff7e750000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.950:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Windows\SYSTEM32\SSPICLI.DLL
+[0211/203401.951:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fff552f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.951:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\64.0.3282.140\chrome_child.dll
+[0211/203401.960:ERROR:process_reader_win.cc(242)] ReadMemory at 0xaad6b17000 of 102400 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0211/203401.960:ERROR:crash_report_exception_handler.cc(116)] WriteEverything failed
+[0211/203401.964:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
